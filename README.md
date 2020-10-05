@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-thiyagarajan&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-thiyagarajan&layout=compact)](https://github.com/sanjay-thiyagarajan/github-readme-stats)
 <!--
 **sanjay-thiyagarajan/sanjay-thiyagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
