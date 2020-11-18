@@ -5,11 +5,10 @@
 **sanjay-thiyagarajan/sanjay-thiyagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Inverse Reinforcement Learning, Deep Learning and Multiplatform App Development
 - 🌱 I’m currently learning Blockchain Dapp development
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about App development and TensorFlow models
 - 📫 How to reach me: Telegram => @techwizzie
-- 😄 Pronoun: He
--->
+- 😄 I've got a visitor and that's you
+
