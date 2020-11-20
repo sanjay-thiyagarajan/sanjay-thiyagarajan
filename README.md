@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about App development and TensorFlow models
 - 📫 How to reach me: Telegram => @techwizzie
 - 😄 I've got a visitor and that's you
+- ✨ You can find my blogs on => sanjay-thiyagarajan.github.io
 
