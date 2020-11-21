@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Inverse Reinforcement Learning, Deep Learning and Multiplatform App Development
 - 🌱 I’m currently learning Blockchain Dapp development
 - 💬 Ask me about App development and TensorFlow models
-- 📫 How to reach me: Telegram => <a href = "https://t.me/techwizzie">@techwizzie</a>
+- 📫 How to reach me: Telegram => <a href = "https://t.me/techwizzie" target="_blank">@techwizzie</a>
 - 😄 I've got a visitor and that's you
-- ✨ You can find my blogs on => <a href = "https://sanjay-thiyagarajan.github.io/" target="new">sanjay-thiyagarajan.github.io</a>
+- ✨ You can find my blogs on => <a href = "https://sanjay-thiyagarajan.github.io/" target="_blank">sanjay-thiyagarajan.github.io</a>
 
