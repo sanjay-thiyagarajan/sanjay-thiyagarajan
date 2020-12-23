@@ -7,7 +7,7 @@
 - 😄 I've got a visitor and that's you
 - ✨ You can find my blogs on => <a href = "https://sanjay-thiyagarajan.github.io/" target="_blank">sanjay-thiyagarajan.github.io</a>
 
-![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-thiyagarajan&show_icons=true&&title_color=FFFFFF&icon_color=FF233B&text_color=000000&theme=dark) <br>
+![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjay-thiyagarajan&show_icons=true&&title_color=red&icon_color=FF233B&text_color=FFFFFF&theme=dark) <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-thiyagarajan&hide=html&title_color=FF233B&text_color=000000&icon_color=FF233B&bg_color=FFFFFF" />
 
 
