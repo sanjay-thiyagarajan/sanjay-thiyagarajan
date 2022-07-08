@@ -58,6 +58,3 @@
     </td>
   </tr>
 </table>
- <summary><b>🏆 Github Achievements</b></summary><br>
-<p> <a href="https://github.com/sanjay-thiyagarajan"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-thiyagarajan&margin-w=5&theme=radical" alt="sanjay-thiyagarajan" /></a> </p>
-
