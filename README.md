@@ -16,18 +16,10 @@
 </ul>
 <br/>
 <br/>
-- 
-- 
-- 
-- 
-
-<br>
-
+<br/><br/>
+<br/>
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sanjay-thiyagarajan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-    </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjay-thiyagarajan&theme=dark&hide_border=true" />
     </td>
