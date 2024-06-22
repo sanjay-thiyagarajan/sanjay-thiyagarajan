@@ -6,8 +6,7 @@
 <h3>Sanjay's Portfolio</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
-  <li>🔭 I’m currently working on Deep Learning and Multiplatform App Development</li>
-  <li>💬 Ask me about App development and TensorFlow models</li>
+  <li>💬 Ask me about App development and machine learning models</li>
   <li>📫 How to reach me: Telegram => <a href = "https://t.me/techwizzie" target="_blank">@techwizzie</a></li>
   <li>😄 Wanna know me ? Just <a href="https://www.google.com/search?q=Sanjay+Thiyagarajan">Google</a></li>
   <li>✨ You can find my blogs on => <a href = "https://sanjay-thiyagarajan.github.io/" target="_blank">sanjay-thiyagarajan.github.io</a></li>
