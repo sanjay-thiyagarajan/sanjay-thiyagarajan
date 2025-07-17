@@ -1,7 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ![](https://komarev.com/ghpvc/?username=sanjay-thiyagarajan)
-[![twitter badge](https://img.shields.io/badge/twitter-sj_codez-0077b5?style=social&logo=twitter)](https://twitter.com/sj_codez)
 
 <h3>Sanjay's Portfolio</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
