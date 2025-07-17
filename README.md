@@ -16,13 +16,6 @@
 <br/>
 <br/><br/>
 <br/>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjay-thiyagarajan&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 **Here are few technologies which I have hands-on experience:**
 
