@@ -38,7 +38,6 @@
           <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/bootstrap.png" alt="bootstrap" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/graphql.png" alt="graphql" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/postgresql.png" alt="postgresql" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" width="50" height="50" />
           <img src="https://img.icons8.com/color/128/000000/docker.png" alt="docker" width="50" height="50" />
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs" width="50" height="50"/>
