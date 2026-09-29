@@ -9,7 +9,7 @@
   <li>📫 How to reach me: Telegram => <a href = "https://t.me/techwizzie" target="_blank">@techwizzie</a></li>
   <li>😄 Wanna know me ? Just <a href="https://www.google.com/search?q=Sanjay+Thiyagarajan">Google</a></li>
   <li>✨ You can find my blogs on => <a href = "https://sanjay-thiyagarajan.github.io/" target="_blank">sanjay-thiyagarajan.github.io</a></li>
-  <li>You can find my resume <a href="https://github.com/sanjay-thiyagarajan/sanjay-thiyagarajan/files/7019122/SJ_Resume.pdf">here</a></li>
+  <li>You can find my resume <a href="https://github.com/user-attachments/files/32813971/Sanjay_CV.pdf">here</a></li>
   <li>🧥Pronouns: he/him/his</li>
 </ul>
 <br/>
